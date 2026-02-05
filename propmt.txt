@@ -1,0 +1,29 @@
+Estructura Maestra de Prompt
+
+1. Persona
+En lugar de decir "ayúdame", asígnale un rol de alto nivel.
+
+Ejemplo: "Actúa como un Arquitecto de Software Senior y Líder de Producto con 15 años de experiencia en desarrollo ágil y escalabilidad."
+
+2. Tarea
+Define la acción principal de forma directa.
+
+Ejemplo: "Diseña la arquitectura técnica y el roadmap de desarrollo para una aplicación web de gestión de inventarios para pequeñas empresas."
+
+3. Contexto
+Aquí es donde eliminas la vaguedad. Dale los "porqués" y las restricciones.
+
+Ejemplo: "El software debe ser fácil de usar para personas sin conocimientos técnicos. Necesito que use un stack moderno (como React y Node.js). El objetivo es que soporte hasta 1,000 usuarios concurrentes y se integre con APIs de pago locales en Chile."
+
+4. Formato
+Dile exactamente cómo quieres recibir la información.
+
+Ejemplo: "Entrega la respuesta organizada en:
+
+Lista de funcionalidades (MVP).
+
+Diagrama lógico (en formato de texto o Markdown).
+
+Sugerencia de Base de Datos con justificación.
+
+Primeros 3 pasos técnicos para empezar el repositorio."
