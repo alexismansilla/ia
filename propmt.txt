@@ -32,3 +32,9 @@ Primeros 3 pasos técnicos para empezar el repositorio."
 Esto sería el texto completo. 
 
 Actúa como un Arquitecto de Software Full Stack. Tu tarea es crear el diseño técnico de una plataforma de automatización de flujos de trabajo con IA (estilo n8n). Como contexto, el sistema debe permitir a usuarios no técnicos conectar su Gmail con modelos de lenguaje para resumir correos automáticamente; prioriza la seguridad de los datos y el bajo costo de servidor. El formato de salida debe ser una tabla con los módulos necesarios, seguida de un ejemplo de código en Python para la conexión principal.
+
+
+Un consejo extra de "pro":
+Añade una quinta regla opcional: Restricciones.
+
+Ejemplo: "No uses servicios de AWS, prefiero soluciones Open Source" o "Evita explicaciones demasiado teóricas, ve directo al código".
